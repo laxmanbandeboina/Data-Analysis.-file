@@ -1,2 +1,2 @@
-# zomato.file
-the above file is about a sample dataset of zomato  has been imported and cleaned it by removing null nd duplicate values nd then visualizing the cleaned data in python nd powerbi
+# Data analysis 
+In the above file I have downloaded different datasets and cleaned it using EDA (Exploratory Data Analysis). Then started visualizing the cleaned data using packages in python like 'pandas,matplotlib,seaborn'. Then I have visualized the dataset by using tool 'Microsoft Powerbi' .
